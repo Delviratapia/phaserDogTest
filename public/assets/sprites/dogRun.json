@@ -1,0 +1,92 @@
+{ "frames": {
+   "0": {
+    "frame": { "x": 1, "y": 1, "w": 295, "h": 452 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 138, "y": 18, "w": 293, "h": 450 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   },
+   "1": {
+    "frame": { "x": 297, "y": 451, "w": 295, "h": 443 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 164, "y": 18, "w": 293, "h": 441 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   },
+   "2": {
+    "frame": { "x": 297, "y": 895, "w": 295, "h": 431 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 187, "y": 18, "w": 293, "h": 429 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   },
+   "3": {
+    "frame": { "x": 593, "y": 896, "w": 295, "h": 417 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 154, "y": 28, "w": 293, "h": 415 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   },
+   "4": {
+    "frame": { "x": 1, "y": 454, "w": 295, "h": 443 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 164, "y": 25, "w": 293, "h": 441 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   },
+   "5": {
+    "frame": { "x": 297, "y": 1, "w": 294, "h": 449 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 181, "y": 24, "w": 292, "h": 447 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   },
+   "6": {
+    "frame": { "x": 592, "y": 1, "w": 295, "h": 446 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 138, "y": 32, "w": 293, "h": 444 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   },
+   "7": {
+    "frame": { "x": 592, "y": 448, "w": 294, "h": 447 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 163, "y": 31, "w": 292, "h": 445 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   },
+   "8": {
+    "frame": { "x": 888, "y": 1, "w": 3, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1, "h": 1 },
+    "sourceSize": { "w": 531, "h": 476 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.21-dev",
+  "image": "dogRun-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 891, "h": 1326 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "run", "from": 0, "to": 7, "direction": "forward" },
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

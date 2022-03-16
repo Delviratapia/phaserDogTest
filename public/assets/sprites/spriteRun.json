@@ -1,0 +1,76 @@
+{ "frames": {
+   "0": {
+    "frame": { "x": 1, "y": 1, "w": 295, "h": 452 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 96, "y": 14, "w": 293, "h": 450 },
+    "sourceSize": { "w": 544, "h": 471 },
+    "duration": 100
+   },
+   "1": {
+    "frame": { "x": 593, "y": 451, "w": 295, "h": 443 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 109, "y": 14, "w": 293, "h": 441 },
+    "sourceSize": { "w": 544, "h": 471 },
+    "duration": 100
+   },
+   "2": {
+    "frame": { "x": 297, "y": 886, "w": 295, "h": 417 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 122, "y": 17, "w": 293, "h": 415 },
+    "sourceSize": { "w": 544, "h": 471 },
+    "duration": 100
+   },
+   "3": {
+    "frame": { "x": 1, "y": 454, "w": 295, "h": 443 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 119, "y": 14, "w": 293, "h": 441 },
+    "sourceSize": { "w": 544, "h": 471 },
+    "duration": 100
+   },
+   "4": {
+    "frame": { "x": 297, "y": 1, "w": 295, "h": 452 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 116, "y": 14, "w": 293, "h": 450 },
+    "sourceSize": { "w": 544, "h": 471 },
+    "duration": 100
+   },
+   "5": {
+    "frame": { "x": 593, "y": 1, "w": 294, "h": 449 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 128, "y": 13, "w": 292, "h": 447 },
+    "sourceSize": { "w": 544, "h": 471 },
+    "duration": 100
+   },
+   "6": {
+    "frame": { "x": 297, "y": 454, "w": 295, "h": 431 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 139, "y": 14, "w": 293, "h": 429 },
+    "sourceSize": { "w": 544, "h": 471 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.32-trial",
+  "image": "spriteRun-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 888, "h": 1303 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "run", "from": 0, "to": 6, "direction": "forward" },
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
